@@ -1,12 +1,12 @@
 Projekt: Elections Scraper
 
-Popis projektu
+Popis projektu:
 
 Cílem projektu je vytvořit scraper výsledků voleb z roku 2017, který vytáhne data přímo z webu,
 ze stránky https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ.
 
 
-Instalace knihoven
+Instalace knihoven:
 
 Do nově vytvořeného vlastního virtuálního prostředí .venv (speciálně pro tento úkol) byly přes příkazový řádek nainstalovány potřebné knihovny třetích stran:
 
@@ -28,13 +28,13 @@ Výsledný soubor se spouští pomocí 2 argumentů. První argument obsahuje od
 
 
 
-Odkaz pro spuštění projektu
+Odkaz pro spuštění projektu:
 
 py main.py 'https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=10&xnumnuts=6104' vysledky_trebic.csv
 
 
 
-Ukázka projektu
+Ukázka projektu:
 
 průběh stahování
 
