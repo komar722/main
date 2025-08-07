@@ -1,1 +1,0 @@
-print("Toto je test.")
